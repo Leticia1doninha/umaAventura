@@ -23,3 +23,7 @@ body{
     .psso{
       display: block;
 }
+
+main{
+  max-width: 90%;
+}
